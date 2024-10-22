@@ -1,0 +1,20 @@
+Task to do:
+
+
+	1 Make split screen
+
+	2 Make repo with:
+		- git ignore 
+		- milestones
+		- issues 
+		- basic documentation
+
+
+	3. Make enemy simple tank
+
+		- move around
+		- follow player
+		- shot if is at definited range
+
+
+
