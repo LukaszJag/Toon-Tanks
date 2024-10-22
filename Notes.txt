@@ -17,4 +17,8 @@ Task to do:
 		- shot if is at definited range
 
 
+22.10.24r.
 
+	-> Fix wrong path for source code after move files to /public and /private folders
+
+	-> Implement basic follow player feature for enemy tanks

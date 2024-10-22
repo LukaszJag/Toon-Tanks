@@ -1,169 +1,97 @@
 [
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\BasePawn.cpp",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\BasePawn.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\BasePawn.h",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\EnemyTank.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\EnemyTank.cpp",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\HealthComponent.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\EnemyTank.h",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\Projectile.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\HealthComponent.cpp",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\Tank.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\HealthComponent.h",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\TankGuard.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\Projectile.cpp",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\TankGuardBasePawnClass.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\Projectile.h",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\ToonTanks.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\Tank.cpp",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\ToonTanks.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\Tank.h",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\ToonTanksGameMode.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\TankGuard.cpp",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\ToonTanksPlayerController.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\TankGuard.h",
+		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\Source\\ToonTanks\\Public\\Tower.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.cpp",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.h",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.cpp",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.h",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.cpp",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.h",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\Tower.cpp",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\Source\\ToonTanks\\Tower.h",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+			"@D:\\Linux-Windows-Files\\1-learning\\UE5\\My-Own-Projects\\Toon-tanks-git\\Toon-Tanks\\.vscode\\compileCommands_Default\\Public.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	}
